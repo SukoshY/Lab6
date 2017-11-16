@@ -1,0 +1,12 @@
+name: Lab6
+title: Lab6
+username:
+account: sukosh-yra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 236506
+bundleId: 1080047
+url: https://sukosh-yra.shinyapps.io/Lab6/
+when: 1510875754.16511
+asMultiple: FALSE
+asStatic: FALSE
